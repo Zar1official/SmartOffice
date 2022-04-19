@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hackathon_Final</string>
+    <string name="work_space_title">Work space</string>
+    <string name="chill_space_title">Chill space</string>
+    <string name="massage_none">Turn off</string>
+    <string name="massage_vibration">Vibration</string>
+    <string name="massage_air_compression">Compression</string>
+    <string name="microclimate_control_label">Microclimate control</string>
+    <string name="error_message">Check your internet connection!</string>
+    <string name="error_label">Try again</string>
+    <string name="light_control_label">Light control</string>
+    <string name="massage_control_label">Choose massage mode</string>
+</resources>
